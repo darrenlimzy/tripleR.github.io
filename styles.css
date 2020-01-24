@@ -1,6 +1,6 @@
 body {
   background-image: url('background.jpg');
-  font-family: system-ui;
+  font-family: font-family: Helvetica, Arial, sans-serif;
 }
 h1 {
   color: darkgreen;
