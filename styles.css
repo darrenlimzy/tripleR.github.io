@@ -11,6 +11,8 @@ p {
   color: forestgreen;
 }
 font-family: Impact, Charcoal, sans-serif
+
 figcaption {
-  color: darkolivegreen
+  display: block;
+  color: darkolivegreen;
 }
