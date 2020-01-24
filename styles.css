@@ -10,9 +10,8 @@ h2 {
 p {
   color: forestgreen;
 }
-font-family: Gill Sans, sans-serif
-
 figcaption {
   display: block;
   color: darkolivegreen;
 }
+font-family: system-ui;
