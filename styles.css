@@ -1,5 +1,6 @@
 body {
   background-image: url('background.jpg');
+  font-family: system-ui;
 }
 h1 {
   color: darkgreen;
@@ -14,4 +15,4 @@ figcaption {
   display: block;
   color: darkolivegreen;
 }
-font-family: system-ui;
+
